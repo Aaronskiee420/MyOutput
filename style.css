@@ -1,5 +1,5 @@
 body {
-    background-color: silver;
+    background-color: 064A74;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h3 {
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: silver;
+    border-color: 064A74;
     border-width: 5px;
     width: 5%;
 }
