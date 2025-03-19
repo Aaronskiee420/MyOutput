@@ -1,5 +1,5 @@
 body {
-    background-color: #064A74;
+    background-color: #F4E0FF;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h3 {
 hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: #064A74;
+    border-color: #F4E0FF;
     border-width: 5px;
     width: 5%;
 }
